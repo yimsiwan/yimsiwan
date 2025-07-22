@@ -6,7 +6,7 @@
 
   <br/>
 
-  <img src="https://media.discordapp.net/attachments/1378371989512917092/1397072274200203334/Untitled16_20250721185321.PNG?ex=68806472&is=687f12f2&hm=f56b9d41ffcb35e3a3f7e8e7e0e65524d384ee79ef400d5e733b2746eec435bb&=&format=webp&quality=lossless&width=400&height=400" width="250" />
+  <img src="https://media.discordapp.net/attachments/1378371989512917092/1397072274200203334/Untitled16_20250721185321.PNG?ex=68806472&is=687f12f2&hm=f56b9d41ffcb35e3a3f7e8e7e0e65524d384ee79ef400d5e733b2746eec435bb&=&format=webp&quality=lossless" width="1000" height="250" style="object-fit: cover; border-radius: 10px;" />
 
   <br/><br/>
 
