@@ -9,13 +9,3 @@
   <img src="https://media.discordapp.net/attachments/1378371989512917092/1397072274200203334/Untitled16_20250721185321.PNG?ex=68806472&is=687f12f2&hm=f56b9d41ffcb35e3a3f7e8e7e0e65524d384ee79ef400d5e733b2746eec435bb&=&format=webp&quality=lossless" 
        width="1000" 
        style="display: block; margin: 0; padding: 0; border-radius: 10px;" />
-
-  <!-- Lyrics: tight font and spacing -->
-  <div style="font-weight: bold; font-size: 16px; line-height: 1.2; margin-top: 4px;">
-    매번 똑같아, 마치, 마치, oh, waltz 같아 (waltz 같아)<br/>
-    돌고 또 돌아 또 제자리에 (제자리에)<br/>
-    끝나지 않는 이 음악에 맞춰 춤추네<br/>
-    전쟁 같은 우리 love song
-  </div>
-
-</div>
