@@ -4,11 +4,7 @@
     style="max-width: 100%; height: auto; border-radius:10px;" 
     alt="banner image" /><br>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tu3cyxywlva2dh5u2gwqs4tbqq&redirect=true">
-    <img 
-      [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zyf91q4bfuktowcw80zts8ksn&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=bfe141&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-      
- 
-
+    
 
 
 
