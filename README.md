@@ -1,6 +1,6 @@
 
 <p align="center"> 
- 　　feel 　　like 　　im　　your 　　cat 　　im      your      dog　　 　
+ 　　my 　　glittering 　　vision　　is 　　a       diamond 　　　 　
 <p align="center">
 <strong>hiro</strong>　 he　 him　　 >⩊< 　　
 </p>
