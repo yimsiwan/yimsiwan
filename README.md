@@ -3,11 +3,9 @@
  　　my 　　glittering 　　vision　　is 　　a 　　diamond
  </p>
  <p align="center">
-  <img width="369" height="58" alt="Image" src="(https://media.discordapp.net/attachments/1378371989512917092/1448810735613509803/UkwAAAAZJREFUAwDxHJd8jdhcgAAAABJRU5ErkJggg.png?ex=693c9da4&is=693b4c24&hm=6dc8b89865b53c3cd39cb4c54d4daa023dd5637d6665b340a190b1c619422852&=&format=webp&quality=lossless&width=1792&height=1344)" />
+   <img src="https://media.discordapp.net/attachments/1378371989512917092/1448873743139999976/jbMWXQAAAAZJREFUAwAkp6DipQYnXwAAAABJRU5ErkJggg.png?ex=693cd853&is=693b86d3&hm=0182a259773d4c4b50a7141fbf58e4ff2352d902cd8b6c736c1a3dbed2f7de1a&=&format=webp&quality=lossless&width=2220&height=1250">
   </p>
-<p align="center">
-<strong>hiro</strong>　 he　 him　　 >⩊< 　　
-</p>
+
 
 
 
