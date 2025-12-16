@@ -8,7 +8,6 @@
 
 <p align="center">
 [ata](https://meowhiro.atabook.org/)
-</p>
  
 
 
